@@ -4,7 +4,7 @@ Take a look at the pokemon cards get your favorite pokemon by selecting the type
 
 ### live Preview
 
-- Live Preview: [https://abhi123-rgb.github.io/pokeDecks/]
+- Live Preview: [https://poke-deck-gamma.vercel.app/]
 
 ## Screenshot
 
